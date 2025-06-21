@@ -10,7 +10,7 @@ This is a Streamlit-powered web app that predicts whether a Titanic passenger wo
 
 Once you run the app, visit it in your browser at:
 
-👉 **[http://localhost:8507](http://localhost:8507)**
+http://localhost:8507/
 
 ---
 
