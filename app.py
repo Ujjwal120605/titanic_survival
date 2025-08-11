@@ -5,7 +5,7 @@ import os
 
 st.set_page_config(page_title="Titanic Survival Predictor", page_icon="🚢")
 st.title("🚢 Titanic Survival Predictor")
-
+#is it working
 # Check if model exists
 if not os.path.exists("titanic_model.pkl"):
     st.error("❌ Model file not found. Please run train_model.py.")
